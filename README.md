@@ -8,6 +8,6 @@ link to Explanations:
 https://machinelearningmastery.com/how-to-train-a-progressive-growing-gan-in-keras-for-synthesizing-faces/
 
 
-img_celeba_.zip :folder of real images dataset
+img_align_celeba_.zip :folder of real images dataset
 
 
